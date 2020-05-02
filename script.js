@@ -1,41 +1,41 @@
-// Q1: fetche the data from bootcamp.json
+// Q1: Write a function that fetches the data from bootcamp.json and uses `await` to store it.
+// const jsonResult = <<your code here>>;
 
 
-// Q2: write a function that return a new array with the students first names with "-" before each one of them and display it in the div "studentsFirstName" using map
-
-
-
-
-// Q3: write a function that returns an array with students names that starts with the letter 'm' using filter display it in the div "studentsNamesStartWthM"
+// Q2: Using map(), write a function that returns a new array with the students' first names with "-" before each one and displays it in the div with ID "studentsFirstName".
 
 
 
 
-// Q4: write a function that returns a number of students students that their first name start with the letter 'e' using reduce and display it in div "NumberOfStudentsNamesStartsWithE"
+// Q3: Using filter(), write a function that returns an array with students' names that starts with the letter 'm' and display it in the div with ID "studentsNamesStartWthM".
 
 
 
 
-
-// Q5: write a function that returns the index of the first student name that starts with the letter 'h' and display it in the div "IndexOfFirstStudentNameStartsWithH"
+// Q4: Using reduce(), Write a function that returns the number of students that their first name start with the letter 'e' using reduce and display it in div with ID "NumberOfStudentsNamesStartsWithE"
 
 
 
 
 
-// Q6: write a function that adds the instructers array to the beginning of the students array and returns a new array called everybody, console log the new array, use a spread operator to do it
+// Q5: Write a function that returns the index of the first student name that starts with the letter 'h' and display it in the div with ID "IndexOfFirstStudentNameStartsWithH".
 
 
 
 
-// Q7: write a function to update the key: "title" to the value "Re:Coded Istanbul Bootcamp" in the object in bootcamp.json file
+// Q6: Write a function that adds the instructors array to the beginning of the students array and returns a new array called everybody.
+// 1) Console log the new array
+// 2) Use a spread operator to achieve this
 
 
 
 
+// Q7: Write a function to update the key: "title" to the value "Re:Coded Istanbul Bootcamp" to the object that you fetched in Q1.
 
-// Q8: write a function to add the key: "program manager" and the value "Jaime Mikush" to the object in bootcamp.json file
 
 
+// Q8: Write a function to add the key: "program manager" and the value "Jaime Mikush" to the object that you fetched in Q1.
+
+// Q9: Print the object that you fetched in Q1. 
 
 // good luck 😈
